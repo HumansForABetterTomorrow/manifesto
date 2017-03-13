@@ -1,9 +1,9 @@
-| Status | Date |
-| - | - |
+|Status|Date|
+|---|---|
 | `draft` | Mar 2017 |
 
 # Basic Income
-Basic income sits at the heart of HFABT's ideals to ensure we transition into a future where technology and intelligent machines replace a lot of the jobs that people hold dear and rely on.
+Basic income sits at the heart of HFABT's ideals to ensure we transition peacfully into a future where technology and intelligent machines replace the lion share of the jobs that people hold dear and rely on.
 
 The basic premise of Basic Income or "Universal Basic Income" as its sometimes known is to give every citizen (and some none citizens, such as refugees) a monthly payment, much like a salary, that is available to ALL and isn't means tested, that means regardless of your income or employment status everybody will get the same monthly payment to cover all of your essential living costs.
 
@@ -45,7 +45,7 @@ This proposal will deprecate the following agencies and ministries.
 Here is the schedule for classes of payments and their amounts, as of Jan 1st 2017.
 
 | Class | Description | Multiplier | Monthly Payment (2017) | Yearly Payment (2017) |
-| - | - | - | - | - |
+|---|---|---|---|---|
 | Children | All children from 0 to 11 years old. | 0.13 | £327.08 | £3,924.00 |
 | Teens | All children from 12 to 16 years old. | 0.21 | £528.36 | £6,340.32 |
 | Adults Band 1 | All adults from 16 to 25 years old | 0.81 | £2,037.96| £24,455.52 |
