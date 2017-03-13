@@ -40,6 +40,8 @@ This proposal will deprecate the following agencies and ministries.
 
 - DWP (Department for Work and Pensions)
 
+## Schedules
+
 ### Schedule 1
 
 Here is the schedule for classes of payments and their amounts, as of Jan 1st 2017.
