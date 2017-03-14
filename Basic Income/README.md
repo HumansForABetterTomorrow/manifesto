@@ -30,7 +30,7 @@ The starting Basic Income Fixed Base Rate is (£2516)
 ## Dependancies
 This proposal requires that the "National Bank" proposal has been completed before it can be began.
 
-- [National Bank]("./National Bank/README.md")
+- [National Bank](./National Bank/README.md)
 
 ## Administration
 The administration of the Basic Income program will be handled by the newly created a newly created ministry called "Citizen Support Service" CSS will replace the DWP (Department for Work and Pensions) which will be disbanded under this proposal.
