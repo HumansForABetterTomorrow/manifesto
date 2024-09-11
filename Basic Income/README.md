@@ -44,9 +44,9 @@ This proposal will deprecate the following agencies and ministries.
 
 ### Schedule 1
 
-Here is the schedule for classes of payments and their amounts, as of Jan 1st 2017.
+Here is the schedule for classes of payments and their amounts, as of Jan 1st 2024.
 
-| Class | Description | Multiplier | Monthly Payment (2017) | Yearly Payment (2017) |
+| Class | Description | Multiplier | Monthly Payment (2024) | Yearly Payment (2024) |
 |---|---|---|---|---|
 | Children | All children from 0 to 11 years old. | 0.13 | £327.08 | £3,924.00 |
 | Teens | All children from 12 to 16 years old. | 0.21 | £528.36 | £6,340.32 |
